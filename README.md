@@ -8,11 +8,11 @@ The dashboard uses a synthetically generated dataset and focuses on key business
 
 ### Main Dashboard
 
-![Dashboard Preview 1](main/dashboard-preview1.png)
+![Dashboard Preview 1](dashboard-preview1.png)
 
 ### Customer Segment Performance Analysis
 
-![Dashboard Preview 2](main/dashboard-preview2.png)
+![Dashboard Preview 2](dashboard-preview2.png)
 
 ## Features
 
