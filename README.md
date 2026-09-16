@@ -6,7 +6,13 @@ The dashboard uses a synthetically generated dataset and focuses on key business
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+### Main Dashboard
+
+![Dashboard Preview 1](images/dashboard-preview1.png)
+
+### Customer Segment Performance Analysis
+
+![Dashboard Preview 2](images/dashboard-preview2.png)
 
 ## Features
 
@@ -105,7 +111,7 @@ The dataset includes information such as:
 
 ## Purpose
 
-This project demonstrates the use of **Power BI for interactive business intelligence and exploratory data analysis**, with an emphasis on transforming transactional data into an interactive dashboard that supports business performance analysis.
+This project demonstrates the use of **Power BI for interactive business intelligence and exploratory data analysis**, with an emphasis on transforming transactional data into an interactive dashboard for business performance analysis.
 
 ## Disclaimer
 
